@@ -1,1 +1,3 @@
 https://rhinosecuritylabs.com/research/remote-code-execution-bug-hunting-chapter-1/
+
+https://binarystud.io/volgactf-2017-time-is-exploitation-150.html
