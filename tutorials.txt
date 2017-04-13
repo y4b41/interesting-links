@@ -1,3 +1,5 @@
 https://rhinosecuritylabs.com/research/remote-code-execution-bug-hunting-chapter-1/
 
 https://binarystud.io/volgactf-2017-time-is-exploitation-150.html
+
+http://www.kitploit.com/2017/04/poshc2-powershell-c2-server-and-implants.html
