@@ -1,0 +1,1 @@
+https://johnnunemaker.com/resilience-in-ruby/

@@ -3,3 +3,8 @@ https://rhinosecuritylabs.com/research/remote-code-execution-bug-hunting-chapter
 https://binarystud.io/volgactf-2017-time-is-exploitation-150.html
 
 http://www.kitploit.com/2017/04/poshc2-powershell-c2-server-and-implants.html
+
+
+
+# DOUBLE PULSAL AND ETERNAL BLUE
+http://www.pwn3d.org/posts/1723940-from-git-clone-to-pwned-owning-windows-with-doublepulsar-and-eternalblue-part-2
